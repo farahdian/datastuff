@@ -1,6 +1,4 @@
-﻿# relocateme
-My first Jupyter Notebook project
+﻿# Various Data Things
+A collection of Jupyter Notebooks
 
-Relocate website:https://relocate.me/
-
-Working on July 26, 2021. Might change depending on Relocate website updating
+1. **Relocate**: scrapes info on a dveloper jobs website. Relocate website:https://relocate.me/. Working on July 26, 2021. Might change depending on Relocate website updating
